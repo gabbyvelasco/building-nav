@@ -1,4 +1,4 @@
-.box{
+/* .box{
     height: 100px;
     width: 200px;
     border: 1px solid black;
@@ -45,4 +45,17 @@
 
 .clear-both {
     clear:both;
+} */
+
+
+/* nav styles */
+.main-nav { 
+    height: 75px;
 }
+
+.logo {
+height: 56px;
+padding: 10px;
+}
+
+/* end nav styles */
